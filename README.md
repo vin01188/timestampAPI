@@ -1,2 +1,2 @@
 # TimeStamp Microservice
-The api site is https://vintimestamp.herokuapp.com/
+The api site with instructions is https://vintimestamp.herokuapp.com/
